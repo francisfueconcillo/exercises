@@ -39,6 +39,5 @@ Create a CLI
 4. Print sorted (highest to lowest) array/list numbers.
 5. Print sorted (lowest to highest) array/list numbers.
 
-
-
+- Option #3 will generate a JSON file output.json on the same directory.
 
