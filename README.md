@@ -10,13 +10,13 @@ Creates a deployment package and manifest on files that are removed/added based 
 ### How to run script
 - Run `cd exercise1` and `node create-package.js`
 - The script will output the following:
-|-- /deployPackage
-|----|-- /added
-|----|---- [added files]
-|----|-- /removed
-|----|---- [removed files]
-|-- added.txt
-|-- removed.txt
+* /deployPackage
+  * /added
+    * [added files]
+  * /removed
+    * [removed files]
+* added.txt
+* removed.txt
 
 
 
