@@ -1,0 +1,19 @@
+{
+  "name": "exercise2",
+  "version": "1.0.0",
+  "description": "A CLI using CommanderJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francisfueconcillo/exercises.git"
+  },
+  "author": "Francis Fueconcillo <francisfueconcillo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francisfueconcillo/exercises/issues"
+  },
+  "homepage": "https://github.com/francisfueconcillo/exercises#readme",
+  "dependencies": {
+    "commander": "^12.0.0"
+  }
+}
